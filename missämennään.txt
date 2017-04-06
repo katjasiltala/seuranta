@@ -1,0 +1,19 @@
+6.4. Scrum-tapaamisen perusteella
+
+Toni:
+Suunnittelukuvasto
+
+Mirella (& Aviel:)
+UML-kaavio
+
+Aviel:
+QR/viivakoodinlukija
+
+Olli:
+Tietokantasuunnitelma
+
+Katja:
+Käyttöliittymä & suunnitelma
+
+- Kaikki laittavat Mirellalle meilillä mitä tehty & paljon mennyt aikaa
+- Scrum-pokeri
